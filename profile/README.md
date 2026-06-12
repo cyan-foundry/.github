@@ -1,7 +1,7 @@
 # Cyan Foundry
 
 ## Who we are?
-We are team behind building Cyan - a collaborative platform that reduces operational overhead for media teams. 
+We are team behind building Cyan - an agentic collaborative platform that reduces operational overhead for media teams. 
 
 ## Our Stack
 - UI: Swift, Flutter, React
