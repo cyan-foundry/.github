@@ -9,3 +9,5 @@ We are team behind building Cyan - an agentic collaborative platform that reduce
 - Infrastructure: TF (IaC) + AWS (Iroh Relay and Bootstrap + GPUs) + Local 
 - Claude Opus and now Fable.
 
+## Our Team
+anirudh.vyas@the-cyan.com & heejee.jo@the-cyan.com
